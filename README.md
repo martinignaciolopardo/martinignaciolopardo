@@ -53,7 +53,7 @@
 
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mis estadisticas en GitHub" src="https://github-readme-stats.codestackr.vercel.app/api?username=martinignaciolopardo&hide_border=true" />
+  <img align="left" alt="Mis estadisticas en GitHub" src="https://github-readme-stats.martinignaciolopardo.vercel.app/api?username=martinignaciolopardo&hide_border=true" />
 
 </details>
 
