@@ -45,14 +45,15 @@
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
----
-
 </details>
 
+---
+
 <details>
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Mis estadisticas en GitHub" src="https://github-readme-stats.codestackr.vercel.app/api?username=martinignaciolopardo&show_icons=true&hide_border=true" />
+  <img align="left" alt="Mis estadisticas en GitHub" src="https://github-readme-stats.codestackr.vercel.app/api?username=martinignaciolopardo&hide_border=true" />
 
 </details>
 
