@@ -45,6 +45,8 @@
 5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
 <!--END_SECTION:activity-->
 
+---
+
 </details>
 
 <details>
