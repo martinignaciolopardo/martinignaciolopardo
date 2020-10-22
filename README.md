@@ -68,4 +68,4 @@
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
 [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://www.youtube.com/channel/UCL7rWG1VvC67Eco1dCi5uvA?view_as=subscriber" />][youtube]
+[<img align="left" alt="tinchol1 | YouTube" width="22px" src="https://www.youtube.com/channel/UCL7rWG1VvC67Eco1dCi5uvA?view_as=subscriber" />][youtube]
