@@ -41,7 +41,7 @@
 
 <details>
   <summary>:zap: GitHub stats</summary>
-    [![Mis estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+     <img align="left" alt="Martin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight"/>
 </details>
 
 <details>
