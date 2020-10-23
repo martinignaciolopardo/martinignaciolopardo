@@ -45,7 +45,7 @@
 </details>
 
 <details>
-  <summary>:zap: Estadisticas GitHub</summary>
+  <summary>:zap: Lenguajes mas usados</summary>
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinignaciolopardo)](https://github.com/anuraghazra/github-readme-stats)
   </details>
 
