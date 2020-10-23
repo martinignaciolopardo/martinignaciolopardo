@@ -41,6 +41,8 @@
 
 [![Mis estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinignaciolopardo)](https://github.com/anuraghazra/github-readme-stats)
+
 [twitter]: https://twitter.com/Tinchol2
 [youtube]: https://youtube.com/user/tinchol1
 [instagram]: https://www.instagram.com/martinlopardo
