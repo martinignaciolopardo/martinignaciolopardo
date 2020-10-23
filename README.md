@@ -3,7 +3,7 @@
 
 ## I'm Single, Developer, and Teacher!
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Angular, Java OOP
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and football
 
@@ -11,7 +11,11 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
-### Connect with me:
+---
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=JeffreyCA01)
+
+### 📫 Connect with me:
 
 [<img align="left" alt="codeSTACKr | YouTube" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -31,21 +35,6 @@
 
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
-2. 🎉 Merged PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. 💪 Opened PR [#13](https://github.com/codeSTACKr/codeSTACKr/pull/13) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-5. 💪 Opened PR [#12](https://github.com/codeSTACKr/codeSTACKr/pull/12) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 
