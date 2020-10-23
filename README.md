@@ -44,9 +44,11 @@
      <img align="left" alt="Martin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight"/>
 </details>
 
+---
+
 <details>
   <summary>:zap: Top languages</summary>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinignaciolopardo)](https://github.com/anuraghazra/github-readme-stats)
+    <img align="left" alt="Martin's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinignaciolopardo"/>
   </details>
 
 
