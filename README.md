@@ -41,10 +41,10 @@
 
 <details>
   <summary>:zap: GitHub stats</summary>
+  <!--START_SECTION:stats-->
      <img align="left" alt="Martin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight"/>
+  <!--END_SECTION:stats-->
 </details>
-
----
 
 <details>
   <summary>:zap: Top languages</summary>
