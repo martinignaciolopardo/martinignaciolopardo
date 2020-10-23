@@ -8,10 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and football
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/nlod73n0n55c2n23g9ru894e9)
-
 ---
 
 ### 📫 Connect with me:
