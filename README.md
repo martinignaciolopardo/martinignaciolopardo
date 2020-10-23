@@ -36,6 +36,7 @@
 <img  align="left" alt="Java" width="33px" src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png">
 [<img align="left" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+<img  align="left" alt="GitHub" width="33px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 
 <br />
 <br />
