@@ -39,8 +39,7 @@
 
 ---
 
-[![Mis estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=martinignaciolopardo)](https://github.com/anuraghazra/github-readme-stats)
-![Mis estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&show_icons=true)
+[![Mis estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
 [twitter]: https://twitter.com/Tinchol2
 [youtube]: https://youtube.com/user/tinchol1
