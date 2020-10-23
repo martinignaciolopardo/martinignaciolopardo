@@ -9,7 +9,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-nlod73n0n55c2n23g9ru894e9.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/nlod73n0n55c2n23g9ru894e9)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/nlod73n0n55c2n23g9ru894e9)
 
 ### 📫 Connect with me:
 
@@ -36,7 +36,7 @@
 
 <details>
 
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: Mis estadisticas en GitHub</summary>
 
   <img align="left" alt="Mis estadisticas en GitHub" src="https://github-readme-stats.codestackr.vercel.app/api?username=martinignaciolopardo&hide_border=true" />
 
