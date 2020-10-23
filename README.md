@@ -39,9 +39,17 @@
 
 ---
 
-[![Mis estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Estadisticas GitHub</summary>
+    [![Mis estadisticas en GitHub](https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</details>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinignaciolopardo)](https://github.com/anuraghazra/github-readme-stats)
+<details>
+  <summary>:zap: Estadisticas GitHub</summary>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=martinignaciolopardo)](https://github.com/anuraghazra/github-readme-stats)
+  </details>
+
+
 
 [twitter]: https://twitter.com/Tinchol2
 [youtube]: https://youtube.com/user/tinchol1
