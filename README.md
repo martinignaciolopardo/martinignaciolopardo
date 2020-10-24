@@ -5,7 +5,6 @@
 ## I'm Single, Developer, and Teacher!
 
 - 🌱 I’m currently learning Angular, Java OOP
-- 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play guitar and football
 
 ---
