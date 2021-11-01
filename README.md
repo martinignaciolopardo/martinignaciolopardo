@@ -4,7 +4,7 @@
 
 ## I'm Single, Developer, and Teacher!
 
-- 🌱 I’m currently learning Angular, Java OOP
+- 🌱 I’m currently learning OOP, design patterns
 - ⚡ Fun fact: I love to play guitar and football
 
 ---
