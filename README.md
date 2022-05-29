@@ -4,7 +4,7 @@
 
 ## I'm Single, Developer, and Teacher!
 
-- 🌱 I’m currently learning OOP, design patterns
+- 🌱 I’m currently learning Software Methodologies and which data structure to use depending on the problem
 - ⚡ Fun fact: I love to play guitar and football
 
 ---
