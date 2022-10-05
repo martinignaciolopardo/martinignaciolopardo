@@ -3,7 +3,8 @@
 
 
 ## I'm Single, Developer, and Teacher!
-
+<p><em>Developer at <a href="https://kmganalytics.com/es/">KMG</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
+<p><em>Software development student at <a href="https://www.unicen.edu.ar">UNICEN</a></em></p>
 - 🌱 I’m currently learning Code Documentation and Software Architectures 
 - ⚡ Fun fact: I love to play the guitar and play football
 
