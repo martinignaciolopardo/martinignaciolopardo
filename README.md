@@ -2,7 +2,7 @@
 
 
 
-## I'm Single, Developer, and Teacher!
+## I'm Developer, and Teacher!
 <p><em>Developer at <a href="https://kmganalytics.com/es/">KMG</a>  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></em></p>
 <!-- 
 <p><em>Software development student at <a href="https://www.unicen.edu.ar">UNICEN</a></em></p>
