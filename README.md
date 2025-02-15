@@ -14,11 +14,20 @@
 
 ### 📫 Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | WhatsApp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />](https://wa.me/2281578631)
+<a href="https://twitter.com/Tinchol2" target="_blank">
+  <img align="left" alt="codeSTACKr | Twitter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/martin-ignacio-lopardo-53919619b" target="_blank">
+  <img align="left" alt="codeSTACKr | LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/martinlopardo" target="_blank">
+  <img align="left" alt="codeSTACKr | Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://wa.me/5491112345678" target="_blank">
+  <img align="left" alt="codeSTACKr | WhatsApp" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
 <br />
+
 
 ---
 
