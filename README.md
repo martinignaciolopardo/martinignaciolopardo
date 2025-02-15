@@ -49,15 +49,19 @@
 
 ---
 
+<!-- 
 <details>
   <summary>:zap: GitHub stats</summary>
   <img align="left" alt="Martin's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=martinignaciolopardo&count_private=true&show_icons=true&theme=tokyonight"/>
 </details>
 
+
 <details>
   <summary>:zap: Top languages</summary>
   <img align="left" alt="Martin's top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinignaciolopardo"/>
 </details>
+
+-->
 
 [twitter]: https://twitter.com/Tinchol2
 [youtube]: https://youtube.com/user/tinchol1
